@@ -1,4 +1,8 @@
-﻿var
+{ Copyright 2023 nertinas-dev
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 }
+ var
   data:array[1..30000]of integer;
   stack,pos,pos1,pos2:integer;
   f:textfile;ch:char;
