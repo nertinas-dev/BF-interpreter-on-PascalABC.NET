@@ -1,4 +1,3 @@
-﻿uses crt;
 var
   data:array[1..30000]of integer;
   stack,pos,pos1,pos2:integer;
