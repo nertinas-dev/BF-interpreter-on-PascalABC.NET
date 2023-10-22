@@ -21,7 +21,9 @@ You can call the module code in any file, anywhere in the code.
 To do this, you need to write "@module_name;" in the right place in the code (without quotes). For example,
 
 module sum
+
 % [->+<]>
+
 ++++++++++[>++++++++++<-]>>++++<@sum;.
 
 Output: h
@@ -58,7 +60,9 @@ RU | В языке программирования UBF есть как стан
 Вызвать код модуля можно в любом файле в любом месте в коде. Для этого нужно в нужном месте в коде написать "@название_модуля;"(Без кавычек). Например:
 
 module sum
+
 % [->+<]>
+
 ++++++++++[>++++++++++<-]>>++++<@sum;.
 
 Выведет: h
