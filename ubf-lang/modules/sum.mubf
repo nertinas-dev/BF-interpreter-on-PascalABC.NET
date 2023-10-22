@@ -1,0 +1,5 @@
+[->+<]>
+
+This module is placed on the cell of the first term
+and the next cell should contain the second term
+and the module places the sum in the second cell leaving the first empty
